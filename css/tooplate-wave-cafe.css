@@ -72,8 +72,8 @@ h2 { margin-top: 0; }
 .tm-left-inner { position: fixed; }
 
 .tm-site-header {
-    background-color: white;
-    color: #099;
+    background-color: rgba(0,0,0,0.6);
+    color: white;
     width: 100%;
     height: 160px; 
     display: flex;
@@ -104,8 +104,8 @@ h2 { margin-top: 0; }
 .tm-page-link {
     min-width: 240px;
     height: 100px;
-    background-color: white;
-    color: #099;
+    background-color: rgba(0,0,0,0.6);
+    color: white;
     display: flex;
     text-decoration: none;
     align-items: center;      
@@ -114,8 +114,8 @@ h2 { margin-top: 0; }
 
 .tm-page-link:hover,
 .tm-page-link.active {
-    background-color: #099;
-    color: white;
+    background-color: black;
+    color: darkred;
 }
 
 .tm-page-link-icon {
