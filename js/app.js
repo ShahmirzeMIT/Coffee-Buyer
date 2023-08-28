@@ -10,7 +10,7 @@ let smoothieData=data['fruit-juice']
 let coldText=""
 for (let i = 0; i < coldData.length; i++) {
 	coldText+=`
-	<div class="tm-list-item" id="coldId${coldData[i].id}">          
+	<div class="tm-list-item" id="coldId${coldData[i].id}" onclick="getCold(${coldData[i].id})">          
 	<img src="img/${coldData[i].img}" alt="Image" class="tm-list-item-img">
 	<div class="tm-black-bg tm-list-item-text">
 	  <h3 class="tm-list-item-name">${coldData[i].name}<span class="tm-list-item-price">${coldData[i].price}</span></h3>
@@ -24,7 +24,7 @@ coldCoffee.innerHTML=coldText
 let hotText=""
 for (let i = 0; i < hotData.length; i++) {
 	hotText+=`
-	<div class="tm-list-item" id="hotId${hotData[i].id}">          
+	<div class="tm-list-item" id="hotId${hotData[i].id}" onclick="getHot(${hotData[i].id})">          
 	<img src="img/${hotData[i].img}" alt="Image" class="tm-list-item-img">
 	<div class="tm-black-bg tm-list-item-text">
 	  <h3 class="tm-list-item-name">${hotData[i].name}<span class="tm-list-item-price">${hotData[i].price}</span></h3>
@@ -38,7 +38,7 @@ hotCoffee.innerHTML=hotText
 let smoothieText=""
 for (let i = 0; i < smoothieData.length; i++) {
 	smoothieText+=`
-	<div class="tm-list-item" id="smooId${smoothieData[i].id}" >          
+	<div class="tm-list-item" id="smooId${smoothieData[i].id}" onclick="getSmoothie(${smoothieData[i].id})" >          
 	<img src="img/${smoothieData[i].img}" alt="Image" class="tm-list-item-img">
 	<div class="tm-black-bg tm-list-item-text">
 	  <h3 class="tm-list-item-name">${smoothieData[i].name}<span class="tm-list-item-price">${smoothieData[i].price}</span></h3>
@@ -48,3 +48,15 @@ for (let i = 0; i < smoothieData.length; i++) {
 }
 smoothie.innerHTML=smoothieText
 
+
+function getCold(id){
+console.log(id)
+}
+
+function getHot(id){
+console.log(id)
+}
+
+function getSmoothie(id){
+console.log(id)
+}
