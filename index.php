@@ -3,15 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wave Cafe HTML Template by Tooplate</title>
+    <title>Sahil Cafe </title>
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="fontawesome/css/all.min.css"> <!-- https://fontawesome.com/ -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet" /> <!-- https://fonts.google.com/ -->
+    <link rel="stylesheet" href="fontawesome/css/all.min.css"> 
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet" /> 
     <link rel="stylesheet" href="css/tooplate-wave-cafe.css">
-<!--
-Tooplate 2121 Wave Cafe
-https://www.tooplate.com/view/2121-wave-cafe
--->
+
 </head>
 <body>
   <div class="tm-container">

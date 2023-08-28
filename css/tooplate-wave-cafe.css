@@ -7,7 +7,9 @@ https://www.tooplate.com/view/2121-wave-cafe
 */
 
 html { scroll-behavior: smooth; }
-
+*{
+    outline: none;
+}
 body {
     margin: 0;
     padding: 0;
