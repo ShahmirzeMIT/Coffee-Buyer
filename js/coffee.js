@@ -1,4 +1,4 @@
-{
+let data={
 	"iced-coffe":[
 		{
 			"id":1,
