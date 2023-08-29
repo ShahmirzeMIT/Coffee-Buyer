@@ -32,28 +32,28 @@ let data={
 	],
 	"hot-coffe":[
 		{
-			"id":1,
+			"id":5,
 			"name":"Hot Americano",
 			"price":"$10.25",
 			"text":"Here is a short description for the first item. Sahil Cafe Template is provided by Tooplat",
 			"img":"iced-americano.png"
 		},
 		{
-			"id":2,
+			"id":6,
 			"name":"Hot Cappuccino",
 			"price":"$9.50",
 			"text":"Here is a list of 4 items that can add more as you need. Only content area will be scrolling.",
 			"img":"hot-cappuccino.png"
 		},
 		{
-			"id":3,
+			"id":7,
 			"name":"Hot Espresso",
 			"price":"$7.50",
 			"text":"Left side logo and main menu are fixed. The video background is fixed.",
 			"img":"hot-espresso.png"
 		},
 		{
-			"id":4,
+			"id":8,
 			"name":"Hot Latte",
 			"price":"$6.50",
 			"text":"Page contents are organized into 3 tabs to show different lists of items.",
@@ -62,28 +62,28 @@ let data={
 	],
 	"fruit-juice":[
 		{
-			"id":1,
+			"id":9,
 			"name":"Strawberry Smoothie",
 			"price":"$12.50",
 			"text":"Here is a short description for the item along with a squared thumbnail.",
 			"img":"smoothie-1.png"
 		},
 		{
-			"id":2,
+			"id":10,
 			"name":"Red Berry Smoothie",
 			"price":"$14.50",
 			"text":"Here is a list of 4 items or add more. You can use this template for commercial purposes.",
 			"img":"smoothie-2.png"
 		},
 		{
-			"id":3,
+			"id":11,
 			"name":"Pineapple Smoothie",
 			"price":"$16.50",
 			"text":"Left side logo and main menu are fixed. The video background is fixed.",
 			"img":"smoothie-3.png"
 		},
 		{
-			"id":4,
+			"id":12,
 			"name":"Spinach Smoothie",
 			"price":"$18.50",
 			"text":"You are not allowed to redistribute the template ZIP file on other template sites.",

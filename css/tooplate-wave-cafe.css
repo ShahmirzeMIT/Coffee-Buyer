@@ -36,6 +36,26 @@ p {
     line-height: 1.8; 
     margin-top: 0;
 }
+.add{
+background-color: #009900;
+padding: 10px 15px;
+border: none;
+color: white;
+margin-left: 10px;
+border-radius: 3px;
+cursor: pointer;
+}
+
+
+.reduce{
+background-color:  #ff0000;
+padding: 10px 15px;
+border: none;
+color: white;
+margin-left: 10px;
+border-radius: 3px;
+cursor: pointer;
+}
 
 h2 { margin-top: 0; }
 
